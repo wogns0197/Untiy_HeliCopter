@@ -1,2 +1,2 @@
-# Untiy_HeliCopter
-Untiy_HeliCopter Test
+우크라이나 전쟁 뉴스를 보다가
+헬리콥터가 뉴스에 나오길래 만들고 싶어서 만든 
